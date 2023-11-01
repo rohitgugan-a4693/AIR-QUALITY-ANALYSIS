@@ -24,15 +24,6 @@ Welcome to the Naan Mudhalvan Course Project repository! This project is divided
 - Folder: `05-modeling`
 - Description: This phase is dedicated to developing and fine-tuning models for your data. You can find the code and models used in the project's final stages.
 
-## Getting Started
-If you want to get started with the project, start by exploring the folders and files in each phase. You'll find detailed information and instructions within each folder.
-
-## Contributors
-- [Your Name](https://github.com/yourusername) - Project Lead
-
-## License
-This project is licensed under the [MIT License](LICENSE.md).
-
 Feel free to reach out to us if you have any questions or need further information.
 
 Happy coding!
