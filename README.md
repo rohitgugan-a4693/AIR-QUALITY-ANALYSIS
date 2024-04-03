@@ -1,4 +1,4 @@
-# Air QualitY Analysis Project
+# Air Quality Analysis Project
 
 Welcome to the Air Quality Analysis Project repository! This project is divided into five phases, each contained in its respective folder. Below, you'll find a brief description of each phase and what you can expect to find in the corresponding folders.
 
